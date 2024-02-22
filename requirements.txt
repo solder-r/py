@@ -1,0 +1,4 @@
+requests
+discord
+traceback2
+asyncio37
